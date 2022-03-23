@@ -17,6 +17,6 @@
     "audit-ci": "6.1.1"
   },
   "scripts": {
-    "rm-audit": "audit-ci --config audit-ci-config.json"
+    "ll-audit": "audit-ci --config audit-ci-config.json"
   }
 }
